@@ -1,0 +1,29 @@
+worker_id,name,age,primary_skill,transferable_skills,education,physicality,current_zone,zone_function,shift,shift_hours,load_status,load_percentage,available
+W001,Ahmed Hassan,34,Forklift Operator,"Packing,Loading,Heavy Equipment","High school, Certified Forklift Technician","Fit, heavy lifting certified, no restrictions",Zone A,Dispatch,Morning,6AM-2PM,Low,40,Yes
+W002,Maria Garcia,28,Packing Specialist,"Order Picking,Quality Control,Inventory","High school, Warehouse Safety Certified","Good physical condition, no restrictions",Zone A,Dispatch,Morning,6AM-2PM,Medium,65,Yes
+W003,Chen Wei,42,Heavy Equipment Operator,"Forklift,Loading,Maintenance","Technical diploma, Heavy Equipment License","Excellent fitness, certified for heavy machinery",Zone A,Dispatch,Afternoon,2PM-10PM,High,85,No
+W004,Jamal Thompson,31,Loading Bay Operator,"Shipping,Forklift,Packing","High school, OSHA Certified","Strong build, heavy lifting approved",Zone A,Dispatch,Morning,6AM-2PM,Medium,70,Yes
+W005,Sofia Petrov,26,Order Picker,"Packing,Inventory,Quality Control","Associate degree, Logistics Certificate","Good stamina, no restrictions",Zone A,Dispatch,Afternoon,2PM-10PM,Low,35,Yes
+W006,Raj Patel,38,Shipping Coordinator,"Loading,Inventory,Documentation","Bachelor's in Supply Chain, Forklift License","Moderate fitness, desk and floor work",Zone A,Dispatch,Morning,6AM-2PM,High,90,Yes
+W007,Emma Johnson,29,Quality Inspector,"Inventory,Packing,Documentation","Bachelor's in Quality Management","Light physical work, detail-oriented",Zone A,Dispatch,Afternoon,2PM-10PM,Medium,60,Yes
+W008,Carlos Rodriguez,45,Forklift Operator,"Heavy Equipment,Loading,Maintenance","High school, 20 years experience","Fit, no restrictions, senior operator",Zone B,Packing,Morning,6AM-2PM,Low,30,Yes
+W009,Aisha Mohammed,33,Packing Specialist,"Order Picking,Quality Control,Labeling","High school, Packaging Certification","Good condition, repetitive task certified",Zone B,Packing,Morning,6AM-2PM,Low,45,Yes
+W010,Dmitri Volkov,50,Heavy Equipment Operator,"Forklift,Maintenance,Loading","Technical school, Master Operator License","Excellent condition for age, 25 years experience",Zone B,Packing,Afternoon,2PM-10PM,Medium,55,Yes
+W011,Fatima Al-Sayed,27,Order Picker,"Packing,Inventory,Sorting","High school, Warehouse Operations Certificate","High energy, fast picker",Zone B,Packing,Morning,6AM-2PM,Low,40,Yes
+W012,John O'Brien,36,Loading Bay Operator,"Shipping,Forklift,Heavy Equipment","High school, CDL License","Strong, heavy lifting certified",Zone B,Packing,Afternoon,2PM-10PM,Medium,65,Yes
+W013,Yuki Tanaka,41,Quality Inspector,"Inventory,Documentation,Packing","Bachelor's in Industrial Engineering","Light work, precision focused",Zone B,Packing,Morning,6AM-2PM,Low,35,Yes
+W014,Marcus Williams,32,Inventory Manager,"Quality Control,Documentation,Order Picking","Bachelor's in Business, WMS Certified","Moderate activity, supervisory role",Zone B,Packing,Afternoon,2PM-10PM,Medium,70,Yes
+W015,Isabella Santos,29,Forklift Operator,"Heavy Equipment,Loading,Packing","High school, Forklift Certified 5 years","Fit, no restrictions",Zone C,Storage,Morning,6AM-2PM,Medium,60,Yes
+W016,Hassan Ibrahim,44,Packing Specialist,"Order Picking,Labeling,Quality Control","High school, 15 years warehouse experience","Good stamina, experienced worker",Zone C,Storage,Morning,6AM-2PM,Medium,65,Yes
+W017,Olga Kowalski,37,Heavy Equipment Operator,"Forklift,Maintenance,Loading","Technical diploma, Equipment Specialist","Excellent fitness, maintenance skilled",Zone C,Storage,Afternoon,2PM-10PM,Low,45,Yes
+W018,David Kim,30,Order Picker,"Packing,Inventory,Sorting","Associate degree, Logistics","High productivity, tech-savvy",Zone C,Storage,Morning,6AM-2PM,High,80,Yes
+W019,Amara Okafor,35,Loading Bay Operator,"Shipping,Forklift,Documentation","High school, Shipping Certified","Strong, reliable worker",Zone C,Storage,Afternoon,2PM-10PM,Medium,55,Yes
+W020,Pierre Dubois,48,Quality Inspector,"Inventory,Documentation,Compliance","Bachelor's in Quality Assurance","Light work, compliance expert",Zone C,Storage,Morning,6AM-2PM,Low,40,Yes
+W021,Mei Lin,26,Inventory Manager,"Quality Control,Documentation,Order Picking","Bachelor's in Supply Chain, SAP Certified","Moderate activity, analytical",Zone C,Storage,Afternoon,2PM-10PM,Medium,70,Yes
+W022,Andre Silva,39,Forklift Operator,"Heavy Equipment,Loading,Packing","High school, Forklift Master Operator","Fit, 12 years experience",Zone D,Receiving,Morning,6AM-2PM,Low,35,Yes
+W023,Priya Sharma,31,Packing Specialist,"Order Picking,Quality Control,Labeling","High school, Packaging Expert","Good condition, efficient worker",Zone D,Receiving,Morning,6AM-2PM,Low,40,Yes
+W024,Viktor Novak,52,Heavy Equipment Operator,"Forklift,Maintenance,Loading","Technical school, 30 years experience","Good fitness, senior specialist",Zone D,Receiving,Afternoon,2PM-10PM,Medium,60,Yes
+W025,Layla Hassan,28,Order Picker,"Packing,Inventory,Sorting","Associate degree, WMS Trained","High energy, fast and accurate",Zone D,Receiving,Morning,6AM-2PM,Low,45,Yes
+W026,Robert Taylor,43,Loading Bay Operator,"Shipping,Forklift,Heavy Equipment","High school, CDL and Forklift Licensed","Strong build, versatile operator",Zone D,Receiving,Afternoon,2PM-10PM,Medium,65,Yes
+W027,Zara Ahmed,34,Quality Inspector,"Inventory,Documentation,Compliance","Bachelor's in Quality Management","Light work, detail-oriented professional",Zone D,Receiving,Morning,6AM-2PM,Low,30,Yes
+W028,Miguel Hernandez,40,Inventory Manager,"Quality Control,Documentation,Order Picking","Bachelor's in Logistics, ERP Certified","Moderate activity, leadership skills",Zone D,Receiving,Afternoon,2PM-10PM,Medium,55,Yes
