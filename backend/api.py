@@ -77,9 +77,11 @@ async def startup_event():
     try:
         print("🚀 Starting SmartShift API...")
         
-        # Load workers data
-        workers_df = load_workers("workers.csv")
-        print(f"✅ Loaded {len(workers_df)} workers from CSV")
+
+        # Load workers data using absolute positioning
+        import os
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        workers_df = load_workers(os.path.join(base_dir, "workers.csv"))
         
         # Initialize tools and vector store
         initialize_tools()
