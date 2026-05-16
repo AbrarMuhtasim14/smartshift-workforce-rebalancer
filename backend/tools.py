@@ -16,9 +16,12 @@ def initialize_tools():
     """Initialize tools by loading workers and setting up vector store."""
     global workers_df, vector_store
     
-    # Load workers
-    workers_df = load_workers("workers.csv")
-    print(f"Loaded {len(workers_df)} workers from CSV")
+    
+
+    # Load workers using absolute positioning
+    import os
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    workers_df = load_workers(os.path.join(base_dir, "workers.csv"))
     
     # Initialize and index in vector store
     vector_store.initialize_collection()
