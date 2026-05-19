@@ -613,12 +613,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- 📧 Email: support@smartshift.com
-- 💬 Discord: [Join our community](https://discord.gg/smartshift)
-- 📖 Documentation: [Full docs](https://docs.smartshift.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/smartshift/issues)
 
 ---
 
@@ -646,9 +640,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the SmartShift Team**
 
-[Website](https://smartshift.com) • [Documentation](https://docs.smartshift.com) • [Demo](https://demo.smartshift.com)
+
 
 ⭐ Star us on GitHub if you find this project useful!
 
